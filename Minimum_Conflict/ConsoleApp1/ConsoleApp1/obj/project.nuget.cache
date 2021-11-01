@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/GkiG3ZwxN4wyXNbRoGlh4F+wOdxC5BGBvvN/5DeJz7+QmPhMg3tUBZFFLrzaxu/4iatDjxTYxU16fHC5VOyA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\AI第二次作业\\提交\\T1\\最小冲突\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leisiqi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

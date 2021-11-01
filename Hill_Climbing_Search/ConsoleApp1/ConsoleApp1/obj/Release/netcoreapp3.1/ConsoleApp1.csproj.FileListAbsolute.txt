@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+\\Mac\Home\Desktop\AI第二次作业\T1\随机重启爬山\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
